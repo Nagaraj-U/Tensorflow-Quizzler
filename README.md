@@ -2,6 +2,5 @@
 Serving MNIST digit classification model to website through Tensorflow.js
 
 
-Using OpenCV in python to recognize digits in a scanned page of handwritten digits
+RealTime DigitRecognition built with Tensorflow and OpenCV in python to recognize digit written in canvas.
 
-RealTime DigitRecognition using Convolutional Neural Network(CNN) with keras.
