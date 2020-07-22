@@ -1,4 +1,4 @@
-# Tensorflow_Math_Garden
+# TENSORFLOW_MATH_GARDEN
 
 ## RealTime Digit Recognition model built with Tensorflow and OpenCV in python to recognize digits written in CANVAS.
 
