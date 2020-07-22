@@ -4,7 +4,7 @@ RealTime Digit Recognition built with Tensorflow and OpenCV in python to recogni
 
 goal : Serving MNIST digit classification model to website through Tensorflow.js
 
-This repository has following stages:
+This Project has following stages:
 
 1. Training MNSIT dataset to classify handwritten digits using Tensorflow using Multi layer perceptron.
 2. Saving and loading trained model.
