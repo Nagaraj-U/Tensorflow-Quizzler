@@ -1,6 +1,6 @@
 # Tensorflow_Math_Garden
 
-RealTime Digit Recognition built with Tensorflow and OpenCV in python to recognize digits written in CANVAS.
+RealTime Digit Recognition model built with Tensorflow and OpenCV in python to recognize digits written in CANVAS.
 
 goal : Serving MNIST digit classification model to website through Tensorflow.js
 
