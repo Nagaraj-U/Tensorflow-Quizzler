@@ -10,7 +10,7 @@ This repository has following stages:
 2. Saving and loading trained model.
 3. converting Tensorflow model to Tensorflow.js model to serve through website.
 5. Using OpenCv to preprocess the digits written in CANVAS and convert them to Tensors.
-6. Predicting results.
+6. Serving model through website.
 
 
 
