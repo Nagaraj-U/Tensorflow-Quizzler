@@ -1,10 +1,10 @@
 ## TENSORFLOW MATH GARDEN
 
-               RealTime Digit Recognition model built with Tensorflow and OpenCV in python to recognize digits written in CANVAS.
+    RealTime Digit Recognition model built with Tensorflow and OpenCV in python to recognize digits written in CANVAS.
 
 goal : Serving MNIST digit classification model to website through Tensorflow.js
 
-link :  https://nagaraj-u.github.io/Tensorflow_Math_Garden/
+link : https://nagaraj-u.github.io/Tensorflow-Math-Garden/
 
 This Project has following stages:
 
