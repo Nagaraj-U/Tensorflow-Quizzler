@@ -1,4 +1,4 @@
-## Tensorflow digit classification
+##  Tensorflow digit classification
 
     RealTime Digit Recognition model built with Tensorflow and OpenCV in python to recognize 
                                digits written in canvas.
