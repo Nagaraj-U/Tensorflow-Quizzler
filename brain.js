@@ -3,6 +3,7 @@ var score=0;
 var backgroundImages=[];
 
 
+
 function nextQuestion(){
     const n1=Math.floor(Math.random() * 5);
     document.getElementById('n1').innerHTML=n1;
