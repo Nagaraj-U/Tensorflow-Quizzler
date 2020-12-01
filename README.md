@@ -5,7 +5,7 @@
 
 goal : Serving MNIST digit classification model to website through Tensorflow.js
 
-link : https://nagaraj-u.github.io/Tensorflow-Math-Garden/
+link : https://nagaraj-u.github.io/Tensorflow-Math-Quiz/
 
 This Project has following stages:
 
